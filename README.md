@@ -6,3 +6,6 @@ We may provide XLS, RIS, and BibTeX format files of collections.
 
 We may sporadically update them if curation requires it.
 
+This project is licensed under the CC0 1.0 Universal license. See the LICENSE file for details.
+
+
